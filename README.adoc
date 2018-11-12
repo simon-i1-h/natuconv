@@ -1,0 +1,9 @@
+= conatuc (CO-"NATUral language" Converter): A natural language converter
+
+== How to build
+
+`cargo build` or `cargo build --release`
+
+== Warning
+
+This is an experimental project.

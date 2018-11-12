@@ -12,7 +12,7 @@ macro_rules! f {
 }
 
 fn debug_bin() -> Command {
-    let mut c = Command::new("./target/debug/conatuc");
+    let mut c = Command::new("./target/debug/natuconv");
     c.stdin(Stdio::piped()).stdout(Stdio::piped());
     c
 }

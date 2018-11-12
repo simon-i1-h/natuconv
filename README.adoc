@@ -1,4 +1,4 @@
-= conatuc (COnatuc: NATUral language Converter): A natural language converter
+= natuconv (NATUral language CONVerter): A natural language converter
 
 == How to build
 
@@ -7,7 +7,3 @@
 == Warning
 
 This is an experimental project.
-
-== Pronounce
-
-こなちゅしー or こなつしー
